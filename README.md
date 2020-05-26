@@ -1,2 +1,3 @@
 # JGraph
-Basic Graph API
+Basic Graph API for java Swing
+extend JPanel
